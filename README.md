@@ -8,4 +8,4 @@ Hello Data 開放計畫希望達成下列目標：
 * 從實務入手，透過反覆試驗，逐步摸索出開放資料的標準 (Open Data Standards)
 * 反應範圍不限台灣 http://data.gov.tw 或是<a href="https://hackpad.com/Data-Catalogues-WcKUuhSCJO4">各縣市資料目錄</a>，也歡迎反應日本的 http://data.go.jp
 
-本計劃雖然先探討政府開放資料 (open government data)，但不以政府資料為限，歡迎探索其他類型的開放資料。目前可透過 http://hellodata.org 快速進入本專案。
+本計劃雖然先探討政府開放資料 (open government data)，但不以政府資料為限，歡迎探索其他類型的開放資料。目前可透過 http://hellodata.org 快速進入本計畫。
